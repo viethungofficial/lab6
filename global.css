@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-2xl: 21px;
+  --font-size-mid: 17px;
+  --font-size-6xl: 25px;
+  --font-size-xl: 20px;
+  --font-size-lgi: 19px;
+  --font-size-lg: 18px;
+  --font-size-mini: 15px;
+  --font-size-2xs: 11px;
+  --font-size-base: 16px;
+  --font-size-4xs: 9px;
+  --font-size-3xs: 10px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gray: #838383;
+  --color-teal-100: #1c8692;
+  --color-teal-200: #007784;
+  --color-cadetblue: #36a1ab;
+  --color-gainsboro: #d9d9d9;
+
+  /* Gaps */
+  --gap-6xs: 7px;
+  --gap-lgi: 19px;
+  --gap-3xl: 22px;
+  --gap-base: 16px;
+  --gap-xl: 20px;
+  --gap-4xs: 9px;
+
+  /* Paddings */
+  --padding-12xs: 1px;
+  --padding-9xl: 28px;
+  --padding-10xs: 3px;
+  --padding-5xs: 8px;
+  --padding-xl: 20px;
+  --padding-35xl: 54px;
+  --padding-64xl: 83px;
+  --padding-9xs: 4px;
+  --padding-8xs: 5px;
+  --padding-8xs-5: 4.5px;
+  --padding-xs: 12px;
+  --padding-376xl: 395px;
+  --padding-238xl: 257px;
+  --padding-11xs: 2px;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+  --br-smi: 13px;
+}
